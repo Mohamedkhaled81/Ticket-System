@@ -87,5 +87,4 @@ export class TicketsService {
         this.ticketsData.push(newTicket);
         return newTicket;
     }
-
 }
